@@ -1,2 +1,2 @@
-pg = 4
-print(pg)
+def multiplicar(x=1, y=):
+    return x*y
